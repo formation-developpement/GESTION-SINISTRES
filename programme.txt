@@ -1,4 +1,7 @@
 GESTION DES SINISTRES
-Version : 1.0
+Version : 2.0
 
 Le programme permet de gérer les déclarations de sinistres.
+
+Nouvelle fonctionnalité :
+Contrôle du montant des dommages avant validation.
