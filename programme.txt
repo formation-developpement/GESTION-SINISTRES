@@ -1,10 +1,13 @@
 GESTION DES SINISTRES
 Version : 3.0
 
-Le programme permet de gérer les déclarations de sinistres.
+Le programme  de gérer les déclarations de sinistres.
 
 Nouvelle fonctionnalité :
 Contrôle du montant des dommages avant validation.
 
 Prochaine fonctionnalité: 
 gerer les incidents.
+
+fonctionnalité 2.
+Gerer les indiminité.
