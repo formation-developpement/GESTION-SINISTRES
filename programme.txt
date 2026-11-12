@@ -1,0 +1,4 @@
+GESTION DES SINISTRES
+Version : 1.0
+
+Le programme permet de gérer les déclarations de sinistres.
