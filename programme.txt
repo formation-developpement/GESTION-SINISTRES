@@ -11,3 +11,6 @@ gerer les incidents.
 
 fonctionnalité 2.
 Gerer les indiminité.
+
+Nouvelle fonctionnalité :
+Contrôle du plafond d'indemnisation avant validation du sinistre.
