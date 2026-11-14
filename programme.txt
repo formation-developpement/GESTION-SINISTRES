@@ -15,4 +15,4 @@ Gerer les indiminité.
 Nouvelle fonctionnalité :
 Contrôle du plafond d'indemnisation avant validation du sinistre.
 
-FRANCHISE = 800
+FRANCHISE = 500
